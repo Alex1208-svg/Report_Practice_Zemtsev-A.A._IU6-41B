@@ -1,1 +1,5 @@
-# Report_Practice_Zemtsev-A.A._IU6-41B
+[![Превью отчета](./images/preview.png)](./путь/к/вашему/отчету.pdf)
+
+<p align="center">
+  <i>Нажмите на изображение, чтобы открыть полный PDF отчет</i>
+</p>
